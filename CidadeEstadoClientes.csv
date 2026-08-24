@@ -1,0 +1,26 @@
+﻿CidadeEstadoID,Cidade,Estado,UF,Regiao
+1,Cuiabá,Mato Grosso,MT,Centro-Oeste
+2,Várzea Grande,Mato Grosso,MT,Centro-Oeste
+3,Rondonópolis,Mato Grosso,MT,Centro-Oeste
+4,Sinop,Mato Grosso,MT,Centro-Oeste
+5,Campo Grande,Mato Grosso do Sul,MS,Centro-Oeste
+6,Dourados,Mato Grosso do Sul,MS,Centro-Oeste
+7,Goiânia,Goiás,GO,Centro-Oeste
+8,Anápolis,Goiás,GO,Centro-Oeste
+9,Brasília,Distrito Federal,DF,Centro-Oeste
+10,São Paulo,São Paulo,SP,Sudeste
+11,Campinas,São Paulo,SP,Sudeste
+12,Ribeirão Preto,São Paulo,SP,Sudeste
+13,Rio de Janeiro,Rio de Janeiro,RJ,Sudeste
+14,Belo Horizonte,Minas Gerais,MG,Sudeste
+15,Uberlândia,Minas Gerais,MG,Sudeste
+16,Curitiba,Paraná,PR,Sul
+17,Londrina,Paraná,PR,Sul
+18,Porto Alegre,Rio Grande do Sul,RS,Sul
+19,Florianópolis,Santa Catarina,SC,Sul
+20,Salvador,Bahia,BA,Nordeste
+21,Recife,Pernambuco,PE,Nordeste
+22,Fortaleza,Ceará,CE,Nordeste
+23,Manaus,Amazonas,AM,Norte
+24,Belém,Pará,PA,Norte
+25,Palmas,Tocantins,TO,Norte

@@ -1,0 +1,41 @@
+﻿ClienteID,NomeCliente,TipoCliente,CNPJ,Email,Telefone,DataCadastro,CidadeEstadoID,Segmento,ClienteAtivo
+1,Hotel Fazenda Pantanal,Padaria,21.489.199/0001-55,contato@hotel1.com.br,(11) 96514-2674,2022-11-15,9,Food Service,Sim
+2,Doce Sabor Confeitaria,Mercado,20.665.400/0001-90,contato@doce2.com.br,(61) 93045-7201,2024-07-29,24,Atacado,Sim
+3,Restaurante Sabor Mineiro,Padaria,94.333.891/0001-47,contato@restaurante3.com.br,(85) 92139-1750,2023-01-29,19,Varejo,Sim
+4,Restaurante Point da Massa,Mercado,57.463.314/0001-95,contato@restaurante4.com.br,(51) 96977-3664,2023-07-24,13,Food Service,Sim
+5,Restaurante Fogão a Lenha,Hotel/Pousada,41.267.573/0001-58,contato@restaurante5.com.br,(71) 93803-9751,2022-05-27,21,Food Service,Não
+6,Distribuidora Norte-Sul,Hotel/Pousada,39.941.132/0001-50,contato@distribuidora6.com.br,(11) 96313-1916,2025-02-14,23,Food Service,Sim
+7,Café & Cia,Restaurante,60.758.569/0001-28,contato@café7.com.br,(31) 94483-9179,2026-01-10,19,Food Service,Sim
+8,Supermercado Economia,Hotel/Pousada,56.324.241/0001-75,contato@supermercado8.com.br,(21) 98019-7543,2025-01-08,18,Food Service,Sim
+9,Restaurante Cantinho Mineiro,Mercado,86.165.494/0001-58,contato@restaurante9.com.br,(81) 93621-7916,2022-11-10,4,Atacado,Não
+10,Açougue e Mercado Bela Vista,Lanchonete,97.649.868/0001-44,contato@açougue10.com.br,(91) 91188-2876,2025-02-07,9,Atacado,Sim
+11,Mercadinho Popular,Padaria,74.880.282/0001-74,contato@mercadinho11.com.br,(51) 91053-5315,2022-11-20,14,Varejo,Sim
+12,Supermercado Família,Padaria,57.880.265/0001-79,contato@supermercado12.com.br,(71) 94258-3504,2024-11-05,21,Atacado,Não
+13,Rancho Alegre Alimentos,Lanchonete,49.345.159/0001-40,contato@rancho13.com.br,(65) 92832-6947,2024-09-27,11,Atacado,Não
+14,Distribuidora Alimentar MT,Mercado,26.231.775/0001-70,contato@distribuidora14.com.br,(91) 92133-9727,2024-09-22,24,Atacado,Sim
+15,Lanchonete do Zé,Lanchonete,49.508.787/0001-93,contato@lanchonete15.com.br,(11) 99835-4295,2024-05-16,20,Food Service,Sim
+16,Buffet Sabor Caseiro,Lanchonete,53.121.702/0001-80,contato@buffet16.com.br,(11) 94681-2049,2022-09-05,15,Varejo,Sim
+17,Padaria Pão Nosso,Mercado,18.132.980/0001-52,contato@padaria17.com.br,(81) 91964-4750,2025-12-20,3,Varejo,Sim
+18,Hotel Pousada do Vale,Padaria,83.690.584/0001-41,contato@hotel18.com.br,(11) 99834-3167,2024-09-21,22,Food Service,Sim
+19,Padaria Estrela,Restaurante,64.520.578/0001-16,contato@padaria19.com.br,(81) 98062-6804,2022-07-18,4,Atacado,Sim
+20,Hotel Rio Manso,Hotel/Pousada,41.296.294/0001-78,contato@hotel20.com.br,(41) 96559-2790,2022-05-05,4,Food Service,Sim
+21,Bom Preço,Restaurante,80.200.151/0001-93,contato@bom21.com.br,(11) 92235-8260,2024-08-05,9,Atacado,Sim
+22,Lanchonete Sabor Rápido,Mercado,71.318.985/0001-61,contato@lanchonete22.com.br,(67) 97658-8956,2023-04-30,25,Varejo,Sim
+23,Pizzaria Bella Napoli,Mercado,64.813.848/0001-81,contato@pizzaria23.com.br,(63) 98454-5673,2023-06-28,13,Atacado,Sim
+24,Empório Bom Gosto,Restaurante,17.865.421/0001-17,contato@empório24.com.br,(11) 91958-9883,2023-08-31,7,Varejo,Sim
+25,Casa do Pão,Lanchonete,33.170.709/0001-18,contato@casa25.com.br,(65) 99320-2312,2022-11-19,17,Atacado,Sim
+26,Empório Naturale,Distribuidora,63.773.697/0001-82,contato@empório26.com.br,(11) 91651-2343,2025-03-12,4,Atacado,Sim
+27,Padaria Sabor de Casa,Padaria,43.505.234/0001-95,contato@padaria27.com.br,(85) 96147-4910,2025-10-03,7,Atacado,Sim
+28,Mercearia Vila Nova,Padaria,19.650.318/0001-74,contato@mercearia28.com.br,(65) 98508-2638,2022-05-29,25,Food Service,Sim
+29,Empório Central,Padaria,66.953.656/0001-48,contato@empório29.com.br,(31) 95669-3584,2023-05-16,3,Atacado,Não
+30,Padaria Trigo Dourado,Hotel/Pousada,27.370.218/0001-23,contato@padaria30.com.br,(81) 95905-2697,2022-01-17,17,Atacado,Sim
+31,Mercadinho São José,Padaria,97.749.973/0001-43,contato@mercadinho31.com.br,(11) 96617-4335,2025-05-23,10,Atacado,Sim
+32,Churrascaria Fogo de Chão Regional,Mercado,10.441.889/0001-26,contato@churrascaria32.com.br,(41) 95533-1722,2025-07-23,3,Atacado,Não
+33,Mercado São Miguel,Restaurante,24.177.807/0001-29,contato@mercado33.com.br,(61) 98007-1158,2024-06-23,24,Atacado,Sim
+34,Restaurante Sabor da Terra,Padaria,15.415.473/0001-15,contato@restaurante34.com.br,(67) 98041-3088,2025-02-05,19,Food Service,Sim
+35,Sabor & Cia,Restaurante,40.985.266/0001-32,contato@sabor35.com.br,(31) 97658-3532,2022-07-30,22,Food Service,Sim
+36,Distribuidora Boa Vista,Hotel/Pousada,44.263.906/0001-99,contato@distribuidora36.com.br,(63) 97745-5065,2026-05-22,11,Varejo,Sim
+37,Hotel Fazenda Pantanal,Mercado,49.940.914/0001-39,contato@hotel37.com.br,(11) 98541-6728,2023-04-01,16,Varejo,Sim
+38,Doce Sabor Confeitaria,Restaurante,54.756.621/0001-61,contato@doce38.com.br,(21) 92137-5573,2023-11-04,13,Atacado,Não
+39,Restaurante Sabor Mineiro,Lanchonete,84.371.139/0001-23,contato@restaurante39.com.br,(66) 95279-3925,2022-02-26,11,Atacado,Sim
+40,Restaurante Point da Massa,Hotel/Pousada,59.690.294/0001-42,contato@restaurante40.com.br,(71) 99379-2894,2024-06-12,11,Varejo,Sim

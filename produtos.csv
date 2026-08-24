@@ -1,0 +1,42 @@
+﻿ProdutoID,NomeProduto,Categoria,Subcategoria,UnidadeMedida,PrecoUnitario,CustoUnitario,Fornecedor
+1,Arroz Branco Tipo 1 5kg,Grãos e Cereais,Arroz,Pacote,24.9,17.5,Bernardo Alimentos Ltda
+2,Arroz Integral 1kg,Grãos e Cereais,Arroz,Pacote,8.9,6.1,Cerrado Grãos S.A.
+3,Feijão Carioca 1kg,Grãos e Cereais,Feijão,Pacote,9.5,6.8,Cerrado Grãos S.A.
+4,Feijão Preto 1kg,Grãos e Cereais,Feijão,Pacote,9.9,7.0,Vale Verde Hortifruti
+5,Óleo de Soja 900ml,Óleos e Gorduras,Óleo,Unidade,8.2,6.1,Vale Verde Hortifruti
+6,Azeite de Oliva Extra Virgem 500ml,Óleos e Gorduras,Azeite,Unidade,34.9,24.0,Vale Verde Hortifruti
+7,Açúcar Refinado 1kg,Mercearia,Açúcar,Pacote,5.6,4.0,Vale Verde Hortifruti
+8,Sal Refinado 1kg,Mercearia,Sal,Pacote,3.2,2.1,Vale Verde Hortifruti
+9,Farinha de Trigo 1kg,Mercearia,Farinha,Pacote,6.4,4.5,Agro Central Distribuidora
+10,Farinha de Mandioca 1kg,Mercearia,Farinha,Pacote,7.8,5.5,Norte Sul Alimentos
+11,Café Torrado e Moído 500g,Bebidas,Café,Pacote,15.9,10.8,Pantanal Frigorífico
+12,Leite Integral UHT 1L,Laticínios,Leite,Caixa,5.4,4.0,Bernardo Alimentos Ltda
+13,Queijo Mussarela 1kg,Laticínios,Queijo,kg,42.0,31.0,Vale Verde Hortifruti
+14,Manteiga com Sal 200g,Laticínios,Manteiga,Unidade,12.5,9.0,Norte Sul Alimentos
+15,Iogurte Natural 170g,Laticínios,Iogurte,Unidade,3.8,2.6,Cerrado Grãos S.A.
+16,Massa Espaguete 500g,Massas,Macarrão,Pacote,6.2,4.1,Norte Sul Alimentos
+17,Massa Penne 500g,Massas,Macarrão,Pacote,6.5,4.3,Vale Verde Hortifruti
+18,Molho de Tomate 340g,Mercearia,Molho,Unidade,4.3,2.9,Bernardo Alimentos Ltda
+19,Extrato de Tomate 340g,Mercearia,Molho,Unidade,4.6,3.1,Vale Verde Hortifruti
+20,Frango Congelado Inteiro kg,Carnes,Aves,kg,12.9,9.5,Norte Sul Alimentos
+21,Peito de Frango kg,Carnes,Aves,kg,18.9,14.0,Cerrado Grãos S.A.
+22,Carne Bovina Traseiro kg,Carnes,Bovinos,kg,34.9,27.0,Norte Sul Alimentos
+23,Linguiça Toscana kg,Carnes,Suínos,kg,22.9,17.0,Vale Verde Hortifruti
+24,Pão Francês kg,Padaria,Pães,kg,16.9,8.5,Pantanal Frigorífico
+25,Pão de Forma 500g,Padaria,Pães,Unidade,9.9,6.2,Norte Sul Alimentos
+26,Bolo Confeitado kg,Padaria,Bolos,kg,39.9,22.0,Pantanal Frigorífico
+27,Biscoito Recheado 130g,Snacks,Biscoitos,Unidade,3.5,2.3,Vale Verde Hortifruti
+28,Refrigerante Cola 2L,Bebidas,Refrigerante,Unidade,8.9,6.0,Norte Sul Alimentos
+29,Suco de Laranja 1L,Bebidas,Suco,Caixa,7.5,5.2,Cerrado Grãos S.A.
+30,Água Mineral 500ml,Bebidas,Água,Unidade,2.2,1.4,Agro Central Distribuidora
+31,Cerveja Pilsen Lata 350ml,Bebidas,Cerveja,Unidade,4.1,2.9,Agro Central Distribuidora
+32,Batata Congelada 1kg,Congelados,Batata,Pacote,14.9,10.5,Pantanal Frigorífico
+33,Legumes Congelados 1kg,Congelados,Legumes,Pacote,11.9,8.3,Vale Verde Hortifruti
+34,Polpa de Fruta 1kg,Congelados,Polpa de Fruta,Pacote,13.5,9.4,Pantanal Frigorífico
+35,Tomate kg,Hortifruti,Legumes,kg,7.9,5.2,Vale Verde Hortifruti
+36,Cebola kg,Hortifruti,Legumes,kg,5.4,3.6,Vale Verde Hortifruti
+37,Banana kg,Hortifruti,Frutas,kg,6.2,4.0,Agro Central Distribuidora
+38,Alface Unidade,Hortifruti,Verduras,Unidade,3.9,2.3,Cerrado Grãos S.A.
+39,Chocolate em Pó 400g,Mercearia,Chocolate,Pacote,11.9,8.1,Cerrado Grãos S.A.
+40,Mel 500g,Mercearia,Mel,Unidade,22.9,16.0,Norte Sul Alimentos
+41,Temperos e Condimentos Kit,Mercearia,Temperos,Kit,18.9,12.5,Pantanal Frigorífico
